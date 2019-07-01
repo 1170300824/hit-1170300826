@@ -1,2 +1,2 @@
-# Lab1-1170300826
-Lab1-1170300826 created by GitHub Classroom
+# The code for MIT experiment,include Magic Squares ,Turtle Graphics,Social Network,and Tweet Tweet.
+
